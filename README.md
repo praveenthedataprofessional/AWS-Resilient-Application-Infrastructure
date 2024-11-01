@@ -1,8 +1,8 @@
-Here’s a structured GitHub repository content layout for the **AWS-Resilient-Application-Infrastructure** project, designed to reflect a professional and experienced approach typical of a senior data scientist with extensive AWS expertise.
-
----
 
 # AWS-Resilient-Application-Infrastructure
+
+![image](https://github.com/user-attachments/assets/16f7a5d1-11a8-4594-91a2-01ecf09be898)
+
 
 ## Project Overview
 
